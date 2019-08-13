@@ -57,7 +57,7 @@ repositories {
 
 //Add HyperTrack as a dependency
 dependencies {
-    implementation 'com.hypertrack:hypertrack:3.4.3'
+    implementation 'com.hypertrack:hypertrack:3.4.4'
     ...
 }
 ```
